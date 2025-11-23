@@ -1,4 +1,4 @@
-name: dune
+name: rli
 channels:
   - pytorch
   - nvidia

@@ -51,17 +51,8 @@ cd RLI
 We provide an environment.yml file that can be used to create a Conda environment. 
 ```bash
 conda env create -f environment.yaml
-conda activate dune
+conda activate rli
 ```
-
-Computational Costs(single image)[tested, GPU A6000, A100 80GB]
-
-| Resolution   | Time     | Peak Memory |
-|--------------|----------|-------------|
-| 512x512      | 238.65s  | 31.96GB     |
-| 1024x1024    | 600.01s  | 70.07GB     |
-
-
 
 
 <br>
