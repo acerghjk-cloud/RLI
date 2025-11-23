@@ -192,19 +192,5 @@ This work was supported by the Institute of Information \& communications Techno
 <!-- Acknowledgments logos -->
 
 
-
-## Citation
-
-If you find our work useful, please cite:
-
-```bibtex
-@article{rli2025,
-  title={Robust Defect Image Synthesis Using Null Embedding Optimization for Industrial Applications},
-  author={Jo, Hyunwook and Park, Jun Hyung and Park, In Kyu},
-  journal={Pattern Recognition},
-  year={2025}
-}
-```
-
 ## License
 The code and model weights are licensed under the MIT License. See [`LICENSE.txt`](LICENSE.txt) for details.
