@@ -1,4 +1,4 @@
-CUDA_VISIBLE_DEVICES=0 python run_dataset_various.py \
+CUDA_VISIBLE_DEVICES=0 python src/run_dataset_various.py \
 --original_dataset_path "/data/hyunwook/defect-cls/BF/datasv3/strat_1/train/defect" \
 --new_dataset_path "./new_dataset" \
 --prompt "photo of a crack defect image" \
