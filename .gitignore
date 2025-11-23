@@ -14,4 +14,4 @@
 original_dataset/
 new_dataset/
 hyun_6/
-/
+__pycache__/
