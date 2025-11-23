@@ -14,5 +14,9 @@ original_dataset/
 new_dataset/
 hyun_6/
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
 etc/
-paper.txt
+./paper.txt
