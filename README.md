@@ -23,7 +23,7 @@ This repository contains:
 
 ## Method Overview
 
-![Pipeline](./fig/methodology1-c.png)
+![Pipeline](./fig/methodology1-c.webp)
 *Figure 1: The pipeline of our proposed method*
 
 Our method integrates three key components:
